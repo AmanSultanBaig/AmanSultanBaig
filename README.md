@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sultan Baig</h1>
-<h3 align="center">I am Passionate about Software Development and JavaScript is the area of my expertise, I love to work on JavaScript technologies to make scalable applications using my knowledge, I have worked as MEAN Stack Developer since 2018 & as a MERN Stack from Oct 2020. I love to interact with new people, discussing new ideas, and sharing new techniques towards software implementation. I want to work with an organization which allows me to work with my skills and knowledge for building scalable applications.</h3>
+<h3 align="center">I'm Passionate Software Engineer over 4+ years of experience in the industry with extensive knowledge of Javascript & it's frameworks, In my 4 years demonstrated career I have been worked as Mean, Mern Stack both & now I'm working as Software Engineer (Nodejs) </h3>
+
+<h4>I love to interact with new people, discussing new ideas, and sharing new techniques towards software implementation. I want to work with an organization which allows me to work with my skills and knowledge for building scalable applications.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansultanbaig&label=Profile%20views&color=0e75b6&style=flat" alt="amansultanbaig" /> </p>
 
@@ -7,11 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanSultanBaig?tab=repositories](https://github.com/AmanSultanBaig?tab=repositories)
 
-- 💬 Ask me about **Javascript's related technologies e.g (Angular, React, Node)**
+- 💬 I will always be glad speak & share about 
+**Javascript's related technologies (Tips / Tricks)**
 
-- 📫 How to reach me **amansultanbaig@gmail.com**
+- 📫 mail **amansultanbaig@gmail.com**
 
-- 📄 Know about my experiences [https://amansultanbaig.mystrikingly.com/](https://amansultanbaig.mystrikingly.com/)
+- 📄 My Online Portfolio [https://amansultanbaig.mystrikingly.com/](https://amansultanbaig.mystrikingly.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
