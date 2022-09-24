@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sultan Baig</h1>
-<h3 align="center">I'm Passionate Software Engineer over 4+ years of experience in the industry with extensive knowledge of Javascript & it's frameworks, In my 4 years demonstrated career I have been worked as Mean, Mern Stack both & now I'm working as Software Engineer (Nodejs) </h3>
+<h3 align="center">I'm Passionate Software Engineer over 4+ years of experience in the industry with extensive knowledge of Javascript & it's frameworks. I have been worked as Mean, Mern Stack both in my 4 years demonstrated career & now I'm working as Software Engineer (Nodejs) </h3>
 
 <h4>I love to interact with new people, discussing new ideas, and sharing new techniques towards software implementation. I want to work with an organization which allows me to work with my skills and knowledge for building scalable applications.</h4>
 
