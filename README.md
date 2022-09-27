@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-sultan-baig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sultan-baig/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/amansultanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amansultanbaig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-sultan-baig/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sultan-baig/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amansultanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amansultanbaig" height="30" width="40" /></a>
 <a href="https://medium.com/@aman_sultan_baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman_sultan_baig" height="30" width="40" /></a>
 </p>
 
