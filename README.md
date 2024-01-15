@@ -22,7 +22,7 @@
 
 <h4>💼 Current Role:</h4>
 <p>
-  In my current role as a Software Engineer focused on Node.js, I am engaged in driving innovation and optimizing performance. I thrive in dynamic environments where my technical acumen and collaborative mindset can contribute to the success of the team.
+  In my current role as a Sr.Software Engineer - FullStack, I am engaged in driving innovation and optimizing performance. I thrive in dynamic environments where my technical acumen and collaborative mindset can contribute to the success of the team.
 </p>
 
 <h4>📈 Continuous Learning:</h4>
